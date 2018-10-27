@@ -1,4 +1,4 @@
-<p align="center">ASK</p>
+<p align="center"><b>ASK</b></p>
 
 
 ## About Ask
